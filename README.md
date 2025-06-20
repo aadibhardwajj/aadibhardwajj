@@ -3,15 +3,15 @@
 <!-- Dynamic Typing Banner with Customization -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38F7A7&width=700&lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22I'm%20Aadi%20Bhardwaj%22);print(%22Full-Stack%20Developer%22);echo%20%22Open-Source%20Contributor%22;)](https://git.io/typing-svg)
 
-<!-- Animated 3D Banner with Glow Effect -->
-<img src="https://raw.githubusercontent.com/aadibhardwajj/aadibhardwajj/main/assets/banner.gif" alt="Coding Banner" width="800" style="border-radius: 20px; box-shadow: 0 0 20px #38F7A7;"/>
+<!-- Animated 3D Banner with Glow Effect -->                                                  
+<img src="./assets/Banner.png" alt="Coding Banner" width="800" style="border-radius: 20px;"/>
 
 <!-- Interactive 3D Model (GitHub supports <details> tags) -->
 <details>
 <summary>👨‍💻 Click to see my 3D Dev Avatar!</summary>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadibhardwajj/aadibhardwajj/main/assets/dev.gif" width="300" style="border-radius: 50%; box-shadow: 0 0 30px #2563EB;">
+  <img src="./assets/dev.gif" width="300" style="border-radius: 50%; box-shadow: 0 0 30px #2563EB;">
 </p>
 </details>
 
@@ -24,7 +24,7 @@
 </p>
 
 <!-- Animated Wave Divider -->
-<img src="https://raw.githubusercontent.com/aadibhardwajj/aadibhardwajj/main/assets/wave.svg" width="100%" height="150">
+
 
 </div>
 
@@ -63,6 +63,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aadibhardwajj&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
 </div>
 
+## 🛠️ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadibhardwajj&theme=react-dark&hide_border=true&area=true" />
+</p>
 ## 🚀 Featured Projects
 
 <!-- Interactive Project Cards -->
@@ -76,8 +80,9 @@
 </div>
 
 <!-- Snake Animation (Requires workflow) -->
-![Contribution Snake](https://raw.githubusercontent.com/aadibhardwajj/aadibhardwajj/output/github-contribution-grid-snake-dark.svg)
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## 🌐 Connect With Me
 
 <!-- Animated Social Badges -->
@@ -94,7 +99,8 @@
 </p>
 
 <!-- Floating Particles Animation -->
-<img src="https://raw.githubusercontent.com/aadibhardwajj/aadibhardwajj/main/assets/footer.gif" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:00CED1&height=130&section=footer&animation=fadeIn)
+
 
 <!-- Music Player (Works on GitHub profile) -->
 <p align="center">
