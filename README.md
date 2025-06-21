@@ -96,12 +96,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010&animation=float"/>
   </a>
 </p>
-
-<!-- Floating Particles Animation -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:00CED1&height=130&section=footer&animation=fadeIn)
-
-
-<!-- Music Player (Works on GitHub profile) -->
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&bar_color=38F7A7&bar_color_cover=true" width="400"/>
-</p>
