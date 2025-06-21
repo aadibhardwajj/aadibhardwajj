@@ -53,9 +53,6 @@
   <img src="https://streak-stats.demolab.com?user=aadibhardwajj&theme=radical&border_radius=15&border=7F5AF0&background=0D1117&ring=38F7A7&fire=FF0000&currStreakLabel=38F7A7" alt="GitHub Streak"/>
 </p>
 
-<!-- 3D Contribution Graph -->
-[![Aadi's 3D GitHub Activity Graph](https://github-readme-3d-git-contribution-graph.vercel.app/graph?username=aadibhardwajj&theme=radical)](https://github.com/aadibhardwajj)
-
 ## 🏆 GitHub Trophies
 
 <!-- Rotating Trophy Case -->
@@ -67,6 +64,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadibhardwajj&theme=react-dark&hide_border=true&area=true" />
 </p>
+
 ## 🚀 Featured Projects
 
 <!-- Interactive Project Cards -->
@@ -83,6 +81,7 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ## 🌐 Connect With Me
 
 <!-- Animated Social Badges -->
